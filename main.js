@@ -1,4 +1,4 @@
-const API_KEY = "<YOUR_API_KEY>";
+const API_KEY = "server_ZQui4MmJDtIf";
 let generatedNote = undefined;
 let websocket;
 let transcriptItems = {};
