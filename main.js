@@ -1,4 +1,4 @@
-const API_KEY = "server_ZQui4MmJDtIf";
+const API_KEY = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJzZXJ2ZXJfQ0J0MHNDZ3dlVHFkIiwiY2xvdWRfcmVnaW9uIjoidXMtY2VudHJhbDEiLCJpc3MiOiJwcm9kOnNlcnZlcjpldmVyaGVhbHRoLWRhMzNmNTYiLCJ0eXAiOiJzZXJ2ZXJfa2V5IiwibmFibGFfcmVnaW9uIjoidXMiLCJleHAiOjIxNDc0NzIwMDAsIm9yZ2FuaXphdGlvblN0cmluZ0lkIjoiZXZlcmhlYWx0aC1kYTMzZjU2In0.bCaGf98gqI3Mse1TRZqIqqInsKcnYnaWhJDD7tZkwLs";
 let generatedNote = undefined;
 let websocket;
 let transcriptItems = {};
